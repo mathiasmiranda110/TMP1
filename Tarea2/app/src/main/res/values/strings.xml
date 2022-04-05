@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Tarea2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="mostrar">Mostrar Segunda Actividad</string>
+    <string name="mostrard">Mostrar Drawler</string>
+
+
+    <color name="nuevoColor">#C5e2f0</color>
+    <string name="Dólares">A soles</string>
+    <string name="Soles">A dólares</string>
+    <string name="Euro">A libras</string>
+    <string name="Libras">A euros</string>
+    <string name="Rupia">A reales</string>
+    <string name="Real">A rupias</string>
+    <string name="Convertir">Calcular</string>
+    <string name="miClicManejador">miClicManejador</string>
+</resources>
